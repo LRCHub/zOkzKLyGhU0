@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "HAPPY",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T14:36:24.565950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Anywhere (feat. Gwen Stefani)",
+      "artist": "Blake Shelton feat. Gwen Stefani",
+      "has_synced": true,
+      "path": "select/01_Happy_Anywhere_(feat._Gwen_Stefani)_Blake_Shelton_feat._Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Anywhere (feat. Gwen Stefani)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/02_Happy_Anywhere_(feat._Gwen_Stefani)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Hope You’re Happy Now",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/03_I_Hope_You’re_Happy_Now_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We’re Happy Little Vegemites",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/04_We’re_Happy_Little_Vegemites_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Die A Happy Man",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/05_Die_A_Happy_Man_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happy Anywhere (feat. Gwen Stefani)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/06_Happy_Anywhere_(feat._Gwen_Stefani)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy Does",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/07_Happy_Does_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Happy Girl",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/08_Happy_Girl_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happy Hour",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/09_Happy_Hour_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happy Hour - Slower Lower Sessions",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/10_Happy_Hour_-_Slower_Lower_Sessions_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm So Happy I Can't Stop Crying",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/11_I'm_So_Happy_I_Can't_Stop_Crying_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If You Ain't Happy Now (You Never Will Be)",
+      "artist": "Jesse Daniel",
+      "has_synced": false,
+      "path": "select/12_If_You_Ain't_Happy_Now_(You_Never_Will_Be)_Jesse_Daniel.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HAPPY",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_HAPPY_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
